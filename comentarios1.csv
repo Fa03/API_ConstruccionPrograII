@@ -1,0 +1,406 @@
+texto;sentimiento;categoria
+Los libros nos permiten viajar sin movernos;1;2
+El museo estaba vacío y sin actividades interesantes.;0;2
+La plataforma educativa es muy completa y fácil de usar.;1;3
+Podria ser mejor, pero no lo es;0;1
+Las nuevas generaciones pueden redescubrir el arte clasico;1;2
+La exposición de arte moderno fue confusa y sin sentido, con obras que no tenían una conexión clara entre ellas.;0;2
+La obra de teatro careció de emoción y profesionalismo.;0;2
+La nueva plataforma educativa ha facilitado el aprendizaje, permitiendo a los estudiantes acceder a recursos de alta calidad en cualquier momento.;1;3
+Nada mejor que la adrenalina de un buen partido;1;3
+La musica tiene el poder de unir a las personas;1;2
+Nada nuevo, siempre lo mismo;0;1
+La atención en el spa fue maravillosa, me sentí completamente relajado después del tratamiento.;1;1
+La música en vivo en el bar fue increíble, crearon un ambiente perfecto para disfrutar la noche.;1;1
+El deporte nos motiva a superar nuestros limites;1;3
+La biblioteca digital de la universidad ofrece un amplio acceso a artículos, libros y tesis que enriquecen el proceso educativo de manera notable.;1;3
+Tuve una experiencia bastante negativa con el servicio técnico, no lograron solucionar mi problema y solo generaron más confusión.;0;1
+El entrenamiento constante da resultados;1;3
+La clase magistral sobre literatura fue muy enriquecedora, con un profesor apasionado y experto en el tema.;1;2
+Los Juegos Olimpicos muchas veces son politizados;0;3
+La entrega fue puntual y el producto llegó en buen estado.;1;1
+El voleibol es un deporte que requiere gran trabajo en equipo;1;3
+La exposición de esculturas modernas me dejó indiferente, no logré conectar con el estilo y la falta de contexto de algunas obras.;0;2
+Las plataformas de streaming han facilitado el acceso al cine y la musica;1;2
+La decoración de la habitación del hotel era encantadora, me sentí como en casa.;1;1
+La calidad de las presentaciones fue baja, esperaba mucho más.;0;2
+Quiero tatuarme este post! ;1;1
+El equipo de atención al cliente fue muy amable.;1;1
+Decepcionante;0;1
+La literatura clasica sigue vigente por su gran valor;1;2
+El deporte ayuda a mejorar la concentracion;1;3
+La exposición de arte fue inspiradora y bien organizada.;1;2
+Las exposiciones de arte ya no innovan;0;2
+Solo entre un rato y ya estoy atrapado con tu contenido ;1;1
+Los productos son de alta calidad y siempre llegan a tiempo. Muy satisfecho.;1;1
+El nuevo programa educativo es excelente, los estudiantes están motivados.;1;3
+No tiene sentido;0;1
+La visita guiada al sitio arqueológico fue educativa y emocionante, el guía explicaba cada detalle con gran entusiasmo y conocimiento.;1;2
+Me encanta el diseño y la funcionalidad de la aplicación. Es intuitiva y fácil de usar.;1;1
+El deporte nos ensena disciplina y constancia;1;3
+El periodismo cultural ayuda a difundir el arte y el conocimiento;1;2
+La competicion sana es clave para mejorar;1;3
+El hotel no cumplió con lo prometido, la habitación estaba sucia y descuidada.;0;1
+El libro que leí recientemente me inspiró profundamente, no podía dejar de pensar en sus enseñanzas.;1;1
+La exposición de fotografía de viajes fue inspiradora, con imágenes impresionantes de diferentes partes del mundo.;1;2
+El teatro ya no tiene la relevancia de antes;0;2
+No entiendo por que tiene tantos me gusta;0;1
+Los libros fisicos tienen una magia especial;1;2
+El material de estudio está desactualizado y es poco útil.;0;3
+Siento que mejoran cada vez más en calidad de sus productos.;1;1
+Esto no tiene ninguna utilidad;0;1
+El evento prometía una experiencia cultural completa, pero resultó ser una presentación monótona sin ningún valor añadido para el público.;0;2
+La obra de teatro superó todas mis expectativas.;1;2
+La película que vi fue un verdadero fiasco, no logró captar mi interés en ningún momento.;0;1
+La atención en la tienda fue muy mala, el personal parecía desinteresado.;0;1
+El curso en línea fue confuso y mal estructurado.;0;3
+Los deportes de contacto pueden generar muchas lesiones;0;3
+Necesito mas de esto en mi vida! ;1;1
+Los escandalos de corrupcion afectan la credibilidad del deporte;0;3
+La plataforma educativa es difícil de navegar.;0;3
+Me encantó el servicio que recibí, realmente excelente.;1;1
+Las peliculas bien hechas pueden cambiar la forma en que vemos el mundo;1;2
+El concierto fue una experiencia incómoda debido al mal sonido, apenas se podían entender las letras de las canciones.;0;2
+La comida en el restaurante estaba insípida y no cumplió con mis expectativas.;0;1
+Nuestra cita fue muy agradable.;1;1
+El baloncesto es un deporte emocionante y dinamico;1;3
+Wow! Esto es genial. Como se te ocurrio? ;1;1
+Visité el museo pero muchas de las exhibiciones estaban cerradas, lo cual fue frustrante, especialmente después de pagar la entrada completa.;0;2
+Las exposiciones de arte muestran la creatividad humana sin limites;1;2
+Demasiado simple y sin chiste;0;1
+El ambiente de aprendizaje es desmotivador.;0;3
+La clase de yoga que tomé fue revitalizante, el instructor fue muy profesional y atento.;1;1
+Nada interesante aqui;0;1
+El teatro sigue transmitiendo emociones como ningun otro medio;1;2
+El festival cultural de este año fue bastante decepcionante, la organización fue deficiente y las actividades parecían improvisadas.;0;2
+Los museos deberian tener mas apoyo, pero la gente prefiere su telefono;0;2
+La cultura y la tecnologia pueden coexistir y enriquecerse mutuamente;1;2
+La visita al museo fue frustrante, muchas exhibiciones estaban cerradas y no había información suficiente.;0;2
+Totalmente innecesario;0;1
+Los libros digitales le han quitado valor a la lectura;0;2
+El programa de tutorías personalizadas ha sido fundamental para mejorar el rendimiento académico de muchos estudiantes, se sienten más seguros y motivados.;1;3
+La muestra de arte contemporáneo superó todas mis expectativas, los colores vibrantes y las temáticas sociales transmitían un mensaje profundo y emotivo.;1;2
+La exposición de arte fue increíble, muy bien organizada y con grandes obras.;1;2
+Los talleres extracurriculares han fomentado el desarrollo de habilidades prácticas y creativas en los estudiantes, complementando su educación formal.;1;3
+El entrenamiento excesivo puede ser perjudicial;0;3
+La festividad cultural de este año fue realmente asombrosa, las tradiciones, bailes y muestras gastronómicas representaron fielmente nuestra herencia.;1;2
+La comida en este café es deliciosa, cada plato que probé fue una verdadera delicia.;1;1
+La integración de tecnología en el aula ha facilitado la colaboración entre estudiantes, promoviendo un aprendizaje más dinámico y participativo.;1;3
+La universidad ha implementado programas de tutoría que han sido muy útiles para los alumnos, han ayudado mucho en su desarrollo académico. ;1;3
+La educacion artistica ya no recibe atencion;0;2
+La obra de teatro no fue lo que esperaba, el guion carecía de cohesión y las actuaciones no lograron conectar con el público.;0;2
+Lamentablemente, la atención en el restaurante dejó mucho que desear, el servicio fue lento y la comida llegó fría, no pienso regresar.;0;1
+Los torneos a veces benefician solo a los equipos mas ricos;0;3
+La conferencia educativa a la que asistí fue inspiradora, los ponentes eran expertos en su área y brindaron conocimientos muy valiosos. ;1;3
+La película que vi el fin de semana fue impresionante, la trama estaba bien desarrollada y los efectos visuales eran espectaculares, me dejó sin palabras.;1;1
+La implementación de métodos de enseñanza interactivos ha logrado captar el interés de los estudiantes y hacer del aprendizaje una experiencia agradable.;1;3
+Este post merece un premio! ;1;1
+No es para tanto;0;1
+El arte contemporaneo nos desafia a pensar de nuevas formas;1;2
+La escuela ha realizado mejoras en sus instalaciones y se nota que los estudiantes están más cómodos y enfocados en sus estudios. ;1;3
+La musica comercial ha matado la creatividad;0;2
+La calidad de los productos que adquirí superó todas mis expectativas, construidos con atención y durabilidad, se destacan tanto en diseño como en funcionalidad, un verdadero hallazgo.;1;1
+La visita al museo de historia natural fue una experiencia emocionante, con exposiciones interactivas y bien explicadas.;1;2
+Algunas reglas no son justas para todos los jugadores;0;3
+Los calendarios deportivos son agotadores para los jugadores;0;3
+El festival cultural de este año fue bastante decepcionante, la organización fue deficiente y las actividades parecían improvisadas.;0;2
+Las tradiciones culturales nos recuerdan quienes somos;1;2
+Los premios culturales destacan el talento y la creatividad;1;2
+No le veo el sentido a esto;0;1
+La musica puede ser una gran fuente de inspiracion;1;2
+El documental que vi sobre las antiguas civilizaciones fue fascinante, muy bien investigado y con imágenes impactantes, muy recomendable.;1;2
+El futbol esta lleno de corrupcion;0;3
+El libro que leí sobre la cultura china fue aburrido y sin interés, con una escritura pesada y difícil de seguir.;0;2
+Como haces para ser tan increible? ;1;1
+La exposición de arte moderno en el museo fue maravillosa, cada obra estaba llena de vida y creatividad, un deleite para los amantes del arte.;1;2
+Las instalaciones del colegio están en malas condiciones, lo que da una mala imagen y afecta la comodidad y seguridad de los estudiantes.;0;3
+Estoy muy satisfecho con el servicio al cliente de esta empresa, resolvieron todas mis dudas con rapidez y amabilidad, es difícil encontrar atención así.;1;1
+El ajedrez es considerado un deporte mental;1;3
+La plataforma en línea para las clases virtuales es complicada y suele fallar, lo que genera frustración en los estudiantes y afecta el flujo de la clase.;0;3
+No quiero voler a salir con ellos, estuvo muy aburrido.;0;1
+Estoy muy decepcionado por como me trataron.;0;1
+Esa felicula fue fantastica.;1;1
+La poesia es un reflejo del alma humana;1;2
+Estoy impresionado con la calidad de los recursos educativos disponibles en línea, hacen que el aprendizaje sea accesible y práctico.;1;3
+La literatura juvenil es muy repetitiva;0;2
+La escalada es un reto fisico y mental;1;3
+Muy sobrevalorado;0;1
+El festival cultural fue bastante decepcionante, las actividades no tenían cohesión y parecía que faltaba organización en todo momento.;0;2
+La festividad cultural de este año fue realmente asombrosa, las tradiciones, bailes y muestras gastronómicas representaron fielmente nuestra herencia.;1;2
+El ciclismo es una forma divertida de mantenerse en forma;1;3
+La música en el bar era demasiado alta, no podía conversar con mis amigos.;0;1
+Las actividades extracurriculares complementan muy bien la educación formal.;1;3
+La nueva metodología de enseñanza ha logrado que los estudiantes participen más y disfruten del proceso de aprendizaje, es un cambio notable.;1;3
+El beisbol es una pasion para muchas personas;1;3
+No me hizo gracia en lo absoluto;0;1
+Ver un buen partido es una gran emocion;1;3
+La feria cultural fue decepcionante y sin variedad.;0;2
+Sinceramente esperaba algo mejor;0;1
+El ejercicio ayuda a reducir el estres;1;3
+El senderismo nos permite conectar con la naturaleza;1;3
+La calidad de los zapatos que compré fue muy baja, se rompieron en poco tiempo.;0;1
+Se han olvidado de las verdaderas historias en el cine;0;2
+Los maratonistas son un gran ejemplo de determinacion;1;3
+Muy mala calidad;0;1
+El futbol une a las personas de todo el mundo;1;3
+La aplicación es extremadamente lenta y difícil de navegar, cada vez que la uso siento que pierdo más tiempo del que ahorro.;0;1
+La película que vi fue una pérdida de tiempo, el guion era predecible y las actuaciones nada convincentes, no la recomiendo.;0;1
+La experiencia en el evento fue decepcionante, la organización dejó mucho que desear.;0;1
+El arte y la cultura son esenciales para una sociedad equilibrada;1;2
+Los festivales culturales enriquecen la sociedad;1;2
+Los recursos de aprendizaje son insuficientes y en muchas ocasiones los estudiantes no tienen acceso a lo que necesitan para hacer sus tareas.;0;3
+"La película que vi el fin de semana fue un crucible de emociones, con una trama intrincada y efectos visuales cautivadores; ciertamente la recomendaría a cualquier amante del buen cine.";1;1
+El evento cultural fue aburrido y sin nada especial.;0;2
+El cine independiente es ignorado por la mayoria;0;2
+La conferencia educativa a la que asistí fue inspiradora, los ponentes eran expertos en su área y brindaron conocimientos muy valiosos.;1;3
+Los arbitros muchas veces arruinan los partidos;0;3
+La festividad cultural de este año fue bastante desorganizada, con actividades que no cumplían con las expectativas.;0;2
+No tiene gracia;0;1
+El museo cuenta con una colección impresionante.;1;2
+Las series solo buscan enganchar sin ofrecer calidad;0;2
+Los recursos de aprendizaje son insuficientes, y en muchas ocasiones los estudiantes no tienen acceso a lo que necesitan para hacer sus tareas.;0;3
+Las nuevas generaciones no valoran la historia del arte;0;2
+La exposición de arte moderno en el museo fue maravillosa, cada obra estaba llena de vida y creatividad, un deleite para los amantes del arte.;1;2
+La película biográfica sobre el artista fue muy conmovedora, mostrando su lucha y pasión por el arte.;1;2
+Las nuevas formas de arte digital no transmiten emocion;0;2
+Lo pasamos horrible en aquella salida.;0;1
+La obra de teatro no fue lo que esperaba, el guion carecía de cohesión y las actuaciones no lograron conectar con el público.;0;2
+El teatro sigue siendo una experiencia unica e irrepetible;1;2
+Los cambios en las reglas a veces afectan la esencia del juego;0;3
+Muy aburrido, esperaba mas;0;1
+Las tradiciones culturales estan desapareciendo;0;2
+Las federaciones deportivas no siempre actuan con transparencia;0;3
+El deporte no siempre es accesible para todos;0;3
+La atención en la tienda fue excepcional, el personal fue muy amable y servicial.;1;1
+La reciente inversión en laboratorios escolares ha permitido a los alumnos experimentar y aprender de manera práctica en un entorno seguro.;1;3
+Las lesiones pueden arruinar carreras prometedoras;0;3
+Practicar yoga mejora la flexibilidad y la respiracion;1;3
+La última actualización de la aplicación trajo más problemas que soluciones, es frustrante.;0;1
+Esto es lo peor que he visto;0;1
+El servicio al cliente fue pésimo y no resolvió mi problema.;0;1
+Lo pasamos muy bien en nuestra salida.;1;1
+Los recursos para la clase son limitados y muchas veces no están disponibles cuando los necesitamos, lo que afecta el proceso de aprendizaje. ;0;3
+Jugar futbol con amigos siempre es una gran experiencia;1;3
+El museo tenía pocas exposiciones abiertas y la mayoría estaban en malas condiciones, fue una experiencia frustrante para los visitantes.;0;2
+Las apuestas deportivas estan afectando la esencia del juego;0;3
+"La película fue una verdadera pérdida de tiempo, con un guion predecible y actuaciones sin vida; la falta de calidad ciertamente fue evidente.";0;1
+El deporte de alto rendimiento puede afectar la salud;0;3
+No sabia que necesitaba ver esto hasta ahora ;1;1
+La nueva plataforma educativa ha facilitado muchísimo el aprendizaje, permite acceder a contenido didáctico de alta calidad en cualquier momento del día.;1;3
+Las artes marciales nos ensenan respeto y control;1;3
+La plataforma de aprendizaje en línea es confusa y difícil de usar, paso más tiempo tratando de entenderla que aprendiendo realmente.;0;3
+Cada vez el contenido es peor;0;1
+La visita al museo de historia fue decepcionante, con exposiciones anticuadas y sin una actualización en muchos años.;0;2
+El deporte muchas veces es usado como negocio;0;3
+Los premios culturales ya no premian la calidad;0;2
+Practicar deporte nos hace sentir vivos y con energia;1;3
+El programa de tutorías personalizadas ha sido fundamental para mejorar el rendimiento académico, haciendo que los estudiantes se sientan más seguros y motivados.;1;3
+La feria cultural mostró una gran diversidad de tradiciones.;1;2
+"Estoy muy satisfecho con el servicio al cliente de esta empresa; los empleados se encargaron de cada detalle con amabilidad y rapidez, reimaginando lo que uno espera de una atención al cliente.";1;1
+Las peliculas bien hechas pueden inspirarnos a ser mejores;1;2
+El cine de antes tenia mas personalidad;0;2
+La dosis de humor perfecta para mi dia! ;1;1
+Voy a compartir esto con todos mis amigos! ;1;1
+La animacion se ha vuelto demasiado generica;0;2
+La reciente inversión en laboratorios escolares ha permitido que los alumnos puedan experimentar y aprender de manera práctica en un entorno seguro.;1;3
+El servicio al cliente fue deficiente, no respondieron mis correos y me sentí ignorado.;0;1
+La cultura ha sido desplazada por la tecnologia;0;2
+El arte nos conecta con nuestras emociones y pensamientos;1;2
+Algunos deportes reciben mas atencion de la que merecen;0;3
+Asistí a una obra de teatro que, aunque tenía un guion interesante, la actuación fue tan plana que se perdió todo el dramatismo de la historia.;0;2
+El automovilismo es una mezcla de velocidad y precision;1;3
+El arte digital ha abierto nuevas posibilidades de expresion;1;2
+Todo el proceso de compra fue rápido y eficiente.;1;1
+El material educativo está desactualizado y no refleja los avances recientes en la materia, los estudiantes no están aprendiendo lo necesario.;0;3
+Las novelas actuales parecen todas iguales;0;2
+El proceso de compra fue confuso y lento.;0;1
+El futbol americano es peligroso por sus golpes;0;3
+La universidad ha implementado programas de tutoría que han sido muy útiles para los alumnos, han ayudado mucho en su desarrollo académico.;1;3
+El festival de música folclórica fue una verdadera celebración de nuestras raíces, con música y bailes tradicionales hermosos.;1;2
+El material educativo está desactualizado y no refleja los avances recientes en la materia, los estudiantes no están aprendiendo lo necesario. ;0;3
+El contenido educativo ha sido reemplazado por entretenimiento barato;0;2
+Los profesores están muy capacitados y comprometidos.;1;3
+La conferencia sobre historia antigua fue muy interesante, el conferenciante tenía un gran conocimiento sobre el tema.;1;2
+Amo como haces todo tan divertido y genial ;1;1
+Las instalaciones de la escuela están en pésimas condiciones, requieren mantenimiento urgente.;0;3
+Las clases interactivas han aumentado el interés de los alumnos en aprender.;1;3
+El favoritismo en el deporte es evidente en muchos casos;0;3
+El boxeo es un deporte de estrategia y resistencia;1;3
+La película histórica que vi recientemente estaba muy bien documentada, los detalles y la ambientación transportaban al espectador a otra época.;1;2
+Los contratos millonarios en el deporte no siempre son justos;0;3
+Los recursos para la clase son limitados y muchas veces no están disponibles cuando los necesitamos, lo que afecta el proceso de aprendizaje.;0;3
+Los profesores no respondieron mis dudas.;0;3
+El documental que vi sobre la historia del arte fue aburrido y no aportó nada nuevo al tema.;0;2
+Las promesas jovenes muchas veces son explotadas;0;3
+Sigo riendome aunque ya paso media hora ;1;1
+Cada dia espero tu contenido, nunca decepcionas! ;1;1
+Correr es una de las mejores formas de liberar energia;1;3
+Lo vi 10 veces y aun me rio ;1;1
+No entiendo como alguien puede disfrutar esto;0;1
+Cada dia te superas mas, impresionante! ;1;1
+La educacion artistica es clave para una sociedad creativa;1;2
+La exposición estaba desordenada y sin organización.;0;2
+El ambiente de aprendizaje es muy estimulante.;1;3
+Las instalaciones del colegio están en malas condiciones, lo que afecta la comodidad y seguridad de los estudiantes.;0;3
+El deporte nos ensena a nunca rendirnos;1;3
+Nunca dejes de subir contenido, eres una leyenda ;1;1
+Las letras de las canciones actuales carecen de significado;0;2
+Los estudiantes no reciben suficiente apoyo en sus estudios.;0;3
+El método de enseñanza en algunos cursos es obsoleto, los estudiantes pierden interés porque no encuentran relevancia en lo que están aprendiendo.;0;3
+El libro que leí sobre la cultura japonesa fue fascinante, me dio una nueva perspectiva sobre su forma de vida.;1;2
+Lamentablemente, la atención en el restaurante fue un laberinto de problemas, desde el servicio lento hasta la comida fría, fue una experiencia que no deseo repetir.;0;1
+La clase de cocina fue un desastre, el instructor no sabía explicar bien.;0;1
+La visita guiada al sitio arqueológico fue educativa y emocionante, el guía explicaba cada detalle con gran entusiasmo y conocimiento.;1;2
+El concierto fue una experiencia incómoda debido al mal sonido, apenas se podían entender las letras de las canciones.;0;2
+Las peliculas independientes suelen tener historias muy profundas;1;2
+El boxeo puede ser demasiado violento;0;3
+Los atletas son una inspiracion para todos;1;3
+Las olimpiadas nos recuerdan el poder del esfuerzo humano;1;3
+No entiendo la emocion por esto;0;1
+Pensaba que iba a ser bueno, pero no;0;1
+La cultura es la identidad de un pueblo;1;2
+Las clases en línea me ayudaron a mejorar mis habilidades.;1;3
+La literatura clasica siempre tendra un lugar importante en la historia;1;2
+El material de estudio proporcionado está desactualizado y ya no es útil para los temas actuales, los estudiantes no logran profundizar en su aprendizaje.;0;3
+Me hiciseron sentir super mal.;0;1
+El nivel de los profesores en algunos cursos deja mucho que desear, no están preparados para enseñar y eso se refleja en el desempeño de los alumnos. ;0;3
+La exposición no fue interesante, muy pocas piezas y mala distribución.;0;2
+El periodismo cultural ha perdido relevancia;0;2
+El producto llegó dañado y no cumplen con el reemplazo.;0;1
+La literatura juvenil ha atraido a mas personas a la lectura;1;2
+Gracias por el momento de felicidad, lo necesitaba ;1;1
+La plataforma educativa es fácil de usar y completa.;1;3
+No estoy satisfecho con la calidad del producto.;0;1
+Algunas disciplinas deportivas estan desapareciendo;0;3
+La exposición de arte contemporáneo fue decepcionante, muchas obras parecían falta de creatividad y sin un tema claro.;0;2
+Candidato a post del ano sin duda! ;1;1
+Los fanaticos pueden ser demasiado agresivos;0;3
+No recomendaría este servicio, tuve problemas desde el principio.;0;1
+Hacer deporte al aire libre es una experiencia unica;1;3
+Muy mala experiencia con la compra, el producto llegó en mal estado.;0;1
+La última actualización de la aplicación fue un éxito, repleta de mejoras que la hicieron más rápida y fácil de navegar, facilitando una experiencia verdaderamente enriquecedora;1;1
+Disfruté mucho del viaje, los paisajes eran impresionantes y la gente muy acogedora.;1;1
+Esto deberia estar en un museo ;1;1
+Estoy muy contento con mi compra, el producto es de alta calidad y cumple con lo prometido.;1;1
+Las condiciones de la escuela son bastante deficientes, hay falta de infraestructura adecuada para llevar a cabo las clases correctamente.;0;3
+Algunas competiciones solo buscan dinero y no el deporte;0;3
+Algunos entrenamientos pueden ser extremos y peligrosos;0;3
+Los Juegos Olimpicos son una gran celebracion del esfuerzo humano;1;3
+El futbol a veces se vuelve demasiado agresivo;0;3
+El evento cultural fue una decepción, estuvo mal organizado y el audio fue terrible.;0;2
+La calidad de los productos que compré superó mis expectativas, no solo son duraderos sino también estéticamente agradables, una compra excelente.;1;1
+El concierto de música clásica fue una decepción, con un mal sonido y artistas que no estaban a la altura de las expectativivas.;0;2
+El cine independiente ofrece historias autenticas y poderosas;1;2
+Falta de recursos en el colegio afecta la calidad de la educación.;0;3
+Las letras de algunas canciones pueden ser pura poesia;1;2
+El producto que adquirí se dañó al poco tiempo de uso y el servicio postventa no me brindó ninguna solución, muy decepcionante.;0;1
+El consumismo ha afectado la verdadera esencia del arte;0;2
+Las redes sociales han permitido que el arte llegue a mas personas;1;2
+La exposición de arte contemporáneo no fue de mi gusto, parecía falta de creatividad y sin un tema claro, me dejó insatisfecho. ;0;2
+El concierto de la orquesta sinfónica fue una experiencia impresionante, cada pieza interpretada con una pasión que llegaba al alma, lo disfruté mucho.;1;2
+Algunos equipos tienen demasiada ventaja economica sobre otros;0;3
+El método de enseñanza en algunos cursos es obsoleto, lo que provoca que los estudiantes pierdan interés y no encuentren relevancia en lo que aprenden.;0;3
+La plataforma de aprendizaje en línea es confusa y difícil de usar, paso más tiempo tratando de entenderla que aprendiendo realmente. ;0;3
+El evento cultural superó mis expectativas, hubo mucho talento en cada presentación.;1;2
+El servicio al cliente fue poco profesional y no resolvieron mis problemas.;0;1
+El museo cuenta con exhibiciones interactivas y muy educativas. Ideal para la familia.;1;2
+El dinero domina muchas decisiones en el mundo del deporte;0;3
+La critica cultural nos ayuda a apreciar mejor las obras;1;2
+El contenido que necesito y merezco ;1;1
+El deporte es una gran herramienta de superacion personal;1;3
+Si los posts fueran comida, este seria mi platillo favorito ;1;1
+El futbol femenino no recibe el apoyo que merece;0;3
+El documental que vi sobre las antiguas civilizaciones fue fascinante, muy bien investigado y con imágenes impactantes, muy recomendable.;1;2
+Me gusta mucho este tipo de helado.;1;1
+La exhibición de arte popular fue colorida y alegre, con obras que reflejaban la cultura local.;1;2
+Las clases en línea no cumplieron mis expectativas.;0;3
+Mis neuronas estan celebrando con este post ;1;1
+El museo no tiene muchas actividades y es bastante aburrido.;0;2
+No me gusto para nada;0;1
+El rugby es un deporte de fuerza y estrategia;1;3
+La entrega tardó mucho más de lo esperado.;0;1
+Demasiado largo y aburrido;0;1
+El precio de las entradas para los eventos deportivos es excesivo;0;3
+Mejor que el cafe para empezar el dia ;1;1
+La diversidad musical nos permite disfrutar de diferentes culturas;1;2
+La experiencia en este restaurante fue realmente excepcional, el ambiente acogedor y la comida deliciosa hicieron de nuestra velada una ocasión especial.;1;1
+El evento cultural fue enriquecedor y entretenido.;1;2
+El evento de intercambio cultural permitió conocer costumbres y tradiciones de diferentes países, creando un ambiente de aprendizaje y respeto mutuo.;1;2
+El nivel de los profesores en algunos cursos deja mucho que desear, no están preparados para enseñar y eso se refleja en el desempeño de los alumnos.;0;3
+Las carreras de atletismo muestran la verdadera resistencia humana;1;3
+El concierto de la orquesta sinfónica fue una experiencia impresionante, cada pieza interpretada con una pasión que llegaba al alma, lo disfruté mucho.;1;2
+El cine puede ser una forma de arte increible;1;2
+"El producto que compré se deshizo al poco tiempo de uso, una decepción que el servicio postventa no mejoró; en lugar de una solución, recibí excusas.";0;1
+La exposición de arte contemporáneo no fue de mi gusto, parecía falta de creatividad y sin un tema claro, me dejó insatisfecho.;0;2
+Si pudiera dar mas me gusta, lo haria ;1;1
+Algunos eventos deportivos afectan negativamente el medio ambiente;0;3
+El deporte profesional no siempre es justo;0;3
+Las peliculas de superheroes han saturado la industria;0;2
+No disfruté el festival, la programación fue monótona y poco atractiva.;0;2
+Reirme asi no estaba en mis planes, pero gracias! ;1;1
+La visita al sitio histórico fue una lección de historia viva, con guías expertos que explicaban cada detalle.;1;2
+La poesia ya no tiene el reconocimiento que merece;0;2
+Las tradiciones culturales deben ser preservadas y valoradas;1;2
+La biblioteca digital de la universidad ofrece un acceso amplio a artículos, libros y tesis que enriquecen notablemente el proceso educativo.;1;3
+El deporte fomenta el trabajo en equipo;1;3
+La plataforma educativa es lenta y difícil de navegar.;0;3
+En mi opinion está muy mal lo que hizo ella.;0;1
+El material de estudio proporcionado está desactualizado y ya no es útil para los temas actuales, lo que limita el aprendizaje de los estudiantes.;0;3
+Excelente atención y muy buena disposición en el servicio. Recomendado.;1;1
+Practicar deporte ayuda a fortalecer el corazon;1;3
+Definitivamente el contenido premium de la red! ;1;1
+El festival de danza cultural fue increíble, cada actuación reflejaba una riqueza y diversidad cultural que emocionó a todos los asistentes.;1;2
+Tardaron demasiado en responder y no solucionaron mi inconveniente.;0;1
+El concierto de música clásica fue un fiasco, el sonido era deficiente y los músicos no estaban bien ensayados.;0;2
+Algunos atletas reciben mas apoyo por marketing que por talento;0;3
+El racismo sigue siendo un problema en algunos deportes;0;3
+El servicio postventa fue excelente, resolvieron mi problema de inmediato.;1;1
+La gimnasia es una combinacion perfecta de arte y fuerza;1;3
+Los programas de intercambio estudiantil han ampliado los horizontes culturales de los alumnos, enriqueciendo su formación personal y académica.;1;3
+Los museos nos permiten conocer el pasado y valorar el presente;1;2
+Estoy muy contento con el producto, superó mis expectativas en todos los sentidos.;1;1
+El deporte es salud y bienestar;1;3
+Algunos deportistas no dan un buen ejemplo;0;3
+Las plataformas de streaming han cambiado la forma de consumir arte;0;2
+El curso en línea fue muy completo y bien estructurado.;1;3
+No me gusta nada;0;1
+Las condiciones de la escuela son bastante deficientes, hay falta de infraestructura adecuada para llevar a cabo las clases correctamente. ;0;3
+La última actualización de la aplicación ha mejorado muchísimo su rendimiento, ahora es rápida, intuitiva y muy fácil de usar, la recomiendo totalmente.;1;1
+"El producto que compré se deshizo al poco tiempo de uso, una decepción que el servicio postventa no mejoró; en lugar de una solución, recibí excusas.";0;1
+Estoy impresionado con la calidad de los recursos educativos disponibles en línea, hacen que el aprendizaje sea accesible y práctico.;1;3
+Dame tu talento, por favor! ;1;1
+No aporta nada;0;1
+La critica cultural esta cada vez mas controlada;0;2
+"La experiencia en este restaurante fue realmente excepcional, un verdadero mosaico de sabores que deleitó cada sentido; el ambiente acogedor y los victuals deliciosos orquestaron una velada inolvidable.";1;1
+La plataforma en línea para las clases virtuales es complicada y suele fallar, generando frustración en los estudiantes y afectando el flujo de la clase.;0;3
+La literatura juvenil motiva a muchas personas a leer;1;2
+El negocio de los deportes muchas veces perjudica a los atletas;0;3
+La nueva metodología de enseñanza ha logrado que los estudiantes participen más y disfruten del proceso de aprendizaje, es un cambio notable.;1;3
+El colegio ha mejorado sus instalaciones, es un ambiente cómodo y moderno.;1;3
+La implementación de métodos de enseñanza interactivos ha logrado captar el interés de los estudiantes, haciendo del aprendizaje una experiencia agradable.;1;3
+La programación del festival fue variada y atractiva, disfruté cada actividad.;1;2
+Me siento decepcionado, la calidad no es como la prometen en la publicidad.;0;1
+El tenis es un deporte de gran precision y tecnica;1;3
+Voy a imprimir esto y colgarlo en mi pared ;1;1
+Como puedo suscribirme a tu mente? ;1;1
+Las series pueden contar historias increibles y emocionantes;1;2
+La animacion es una forma de arte con mucho potencial;1;2
+La escuela ha realizado mejoras en sus instalaciones y se nota que los estudiantes están más cómodos y enfocados en sus estudios.;1;3
+No se por que me aparecio esto;0;1
+La serie que empecé a ver es adictiva, cada episodio me deja con ganas de más.;1;1
+El cine clasico sigue siendo una gran referencia de calidad;1;2
+Este post me alegro el dia! ;1;1
+"Mi interacción con el servicio técnico dejó mucho que desear; en lugar de ayudar, solo aumentaron la confusión y el problema inicial, sumergiéndome en una frustrante experiencia.";0;1
+La exhibición de fotografía de viajes fue decepcionante, con imágenes sin inspiración y sin una historia que contar.;0;2
+Asistir al concierto fue una experiencia única, la música y el ambiente fueron excelentes.;1;2
+El dopaje sigue siendo un problema en el deporte;0;3
+La natacion es excelente para el cuerpo y la mente;1;3
+Mi feed es un mejor lugar gracias a ti ;1;1
+Algunos deportes tienen demasiada publicidad;0;3
+El uso de la tecnologia en el arbitraje sigue siendo polemico;0;3
+Hacer ejercicio mejora la calidad de vida;1;3
+El producto superó mis expectativas, muy recomendado.;1;1
+La clase de cocina internacional fue una delicia, pudimos aprender a cocinar platos típicos de diferentes países.;1;2
+Que perdida de tiempo;0;1
+El deporte ayuda a mejorar la coordinacion;1;3
+El taller de cerámica ancestral me permitió aprender técnicas artesanales milenarias, apreciando aún más el valor del arte tradicional.;1;2
