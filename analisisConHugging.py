@@ -1,96 +1,75 @@
-#===============================================
-## Colegio Universitario de Cartago
-## II Cuatrimestre 2025
-## BIG DATA
-## Programación II
-## BD-132
-## Primer Examen
-## Nombre Docente: Osvaldo González Chavez
-## Nombre Estudiante: Fabián Brenes Loría
-## Carné: 303650023
-## Fecha: 10-6-2025
-#===============================================
-
-# Imporación de librerías
-
-import pandas as pd
 import matplotlib.pyplot as plt
 from transformers import pipeline
 from wordcloud import WordCloud
-import nltk
 from nltk.corpus import stopwords
 import string
+import pandas as pd
 
+class AnalizadorComentarios:
+    def __init__(self, ruta_csv, modelo="pysentimiento/robertuito-sentiment-analysis",
+                 encoding="latin1", delimiter=";"):
+        self.ruta_csv = ruta_csv
+        self.encoding = encoding
+        self.delimiter = delimiter
+        self.modelo = modelo
+        self.analizador = pipeline("sentiment-analysis", model=self.modelo)
+        self.datos = self._cargar_datos()
 
-modelo = "pysentimiento/robertuito-sentiment-analysis" # variable creada para asignar el modelo de sentimientos en español a usar
+    def _cargar_datos(self):
+        try:
+            datos = pd.read_csv(self.ruta_csv, encoding=self.encoding, delimiter=self.delimiter)
+            print("Datos cargados:\n", datos)
+            return datos
+        except Exception as e:
+            print("Error al cargar datos:", e)
+            return pd.DataFrame()
 
-analizador = pipeline("sentiment-analysis",model = modelo) # carga el modelo de análisis de sentimientos (modelo pre-entrenado)
+    def _analizar_sentimiento(self, texto):
+        resultado = self.analizador(str(texto))[0]
+        return resultado["label"].lower()
 
-datos = pd.read_csv("comentarios1.csv", encoding='latin1', delimiter=";")
-print(datos) # muestra los datos cargados
+    def procesar_sentimientos(self, columna_texto="texto"):
+        if columna_texto in self.datos.columns:
+            self.datos["SentimientoGenerado"] = self.datos[columna_texto].apply(self._analizar_sentimiento)
+            print("Sentimientos generados:\n", self.datos)
+        else:
+            print(f"Columna '{columna_texto}' no encontrada.")
+        return self.datos
 
-# Creación de función para anlizar los sentimientos de los comentarios
+    def generar_nube_palabras(self, columna_texto="texto"):
+        texto_total = " ".join(str(comentario) for comentario in self.datos[columna_texto])
+        stop_words = set(stopwords.words('spanish'))
+        puntuacion = set(string.punctuation)
 
-def analizarSentimiento (textoAnalizar):
-    resultado = analizador(str(textoAnalizar))[0]
-    return resultado["label"].lower()
+        palabras = [
+            palabra.lower() for palabra in texto_total.split()
+            if palabra.lower() not in stop_words and palabra not in puntuacion
+        ]
+        texto_filtrado = " ".join(palabras)
 
-datos["SentimientoGenerado"] = datos["texto"].apply(analizarSentimiento)
-print(datos)
+        nube = WordCloud(width=800, height=400, background_color='white',
+                         colormap='viridis').generate(texto_filtrado)
+        plt.figure(figsize=(10, 5))
+        plt.imshow(nube, interpolation='bilinear')
+        plt.axis("off")
+        plt.title("Nube de Palabras Más Frecuentes en Comentarios", fontsize=10)
+        plt.show()
 
-# =================== CREACIÓN DE GRÁFICO NUBE ====================================================
+    def grafico_barras(self):
+        frecuencia = self.datos["SentimientoGenerado"].value_counts()
+        print("Frecuencia de sentimientos:\n", frecuencia)
+        plt.figure(figsize=(8, 5))
+        frecuencia.plot(kind="bar", color=["#FDE725", "#E2E418", "gray"])
+        plt.title("Frecuencia de Sentimientos Generados")
+        plt.xlabel("Categoría")
+        plt.ylabel("Cantidad")
+        plt.xticks(rotation=0)
+        plt.show()
 
-# Descarga stopwords en español
-# nltk.download('stopwords')
-
-texto_total = " ".join(str(comentario) for comentario in datos['texto'])
-
-# Preparar palabras a excluir (stopwords + puntuación)
-stop_words = set(stopwords.words('spanish'))
-punctuacion = set(string.punctuation)
-
-# Filtrar palabras: quitar stopwords y puntuación
-palabras = [
-
-    palabra.lower() for palabra in texto_total.split()
-
-    if palabra.lower() not in stop_words and palabra not in punctuacion
-]
-
-# Unir nuevamente el texto limpio
-texto_filtrado = " ".join(palabras)
-# Crear la nube de palabras
-nube = WordCloud(width=800, height=400, background_color='white', colormap='viridis').generate(texto_filtrado)
-
-# 8. Mostrar la nube de palabras
-plt.figure(figsize=(10, 5))
-plt.imshow(nube, interpolation='bilinear')
-plt.axis("off")
-plt.title("Nube de Palabras Más Frecuentes en Comentarios", fontsize=10)
-plt.show()
-
-# =================== CREACIÓN DE GRÁFICO DE BARRAS ====================================================
-
-# Contar frecuencia de cada categoría
-frecuencia = datos["SentimientoGenerado"].value_counts()
-print(frecuencia) # mostar en pantalla la cantidad de veces que se presenta el valor
-
-# Crear el gráfico de barras
-plt.figure(figsize=(8, 5))
-frecuencia.plot(kind="bar", color=["#FDE725", "#E2E418", "gray"])
-plt.title("Frecuencia de Sentimientos Generados")
-plt.xlabel("Categoría")
-plt.ylabel("Cantidad")
-plt.xticks(rotation=0)  # Mantener etiquetas horizontales
-plt.show()
-
-# =================== CREACIÓN DE GRÁFICO DE CIRCULAR ====================================================
-
-# Contar frecuencia de cada categoría
-frecuencia = datos["SentimientoGenerado"].value_counts()
-
-# Crear el gráfico circular
-plt.figure(figsize=(7, 7))
-plt.pie(frecuencia, labels=frecuencia.index, autopct="%1.1f%%", colors=["#FFA726", "#FFE0B2", "gray"])
-plt.title("Proporción de Sentimientos Generados")
-plt.show()
+    def grafico_circular(self):
+        frecuencia = self.datos["SentimientoGenerado"].value_counts()
+        plt.figure(figsize=(7, 7))
+        plt.pie(frecuencia, labels=frecuencia.index, autopct="%1.1f%%",
+                colors=["#FFA726", "#FFE0B2", "gray"])
+        plt.title("Proporción de Sentimientos Generados")
+        plt.show()
